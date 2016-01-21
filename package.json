@@ -1,0 +1,19 @@
+{
+  "name": "trello-card-velocity",
+  "version": "0.1.0",
+  "description": "Take a trello board, and calculate the velocity of movement of cards from from one list to another list.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "VCR_MODE=playback mocha tests"
+  },
+  "author": "V. David Zvenyach <vladlen.zvenyach@gsa.gov>",
+  "license": "CC0",
+  "dependencies": {
+    "node-trello": "^1.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "sepia": "^2.0.1"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "cache-control": "max-age=0, must-revalidate, no-cache, no-store",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=15768000",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "DENY",
+    "x-trello-version": "1.569.0",
+    "x-trello-environment": "Production",
+    "set-cookie": [
+      "dsc=c0396786158c11c960ccf556f3b628743f03fc45ed7e8d9d4d8b1eb0d9de4599; Path=/; Expires=Sun, 24 Jan 2016 12:57:50 GMT; Secure",
+      "visid_incap_168562=d+NPk2kZTTSrpgV2dLVei83VoFYAAAAAQUIPAAAAAAAq+v8Dts8d/NYL/DfgbvDG; expires=Fri, 19 Jan 2018 13:27:59 GMT; path=/; Domain=.trello.com",
+      "incap_ses_236_168562=f5KhQY2uVXB6yyUlpHFGA83VoFYAAAAAaltL2a4ZCcrAq2za9ePSyQ==; path=/; Domain=.trello.com"
+    ],
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET, PUT, POST, DELETE",
+    "x-server-time": "1453381070322",
+    "expires": "Thu, 01 Jan 1970 00:00:00",
+    "x-trello-index-last-update": "88",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "92907",
+    "etag": "W/\"oreKsbakGPOIK24JwydFxw==\"",
+    "vary": "Accept-Encoding",
+    "date": "Thu, 21 Jan 2016 12:57:50 GMT",
+    "x-iinfo": "10-185502894-185327524 PNNY RT(1453381069529 61) q(0 0 0 -1) r(3 3)",
+    "x-cdn": "Incapsula"
+  },
+  "url": "http://api.trello.com:443/1/boards/4d5ea62fd76aa1136000000c?actions=createCard&actions=updateCard&key=ccbeecc695b38254fc9a87ca7e70e302&token=94aa8d2db84241bf31e21ab76b50220bc48c04f1ed4c8761b76565256f8917cb",
+  "time": 583,
+  "request": {
+    "method": "GET",
+    "headers": {
+      "host": "api.trello.com",
+      "accept": "application/json",
+      "content-type": "application/json",
+      "content-length": 155
+    }
+  }
+}
